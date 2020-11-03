@@ -98,14 +98,12 @@ html {
   background-color: sienna;
   text-align: center;
   padding: 50px 80px;
-  opacity: 50%;
 }
 
 .section-light {
   background-color: tan;
   color: black;
   font-weight: 400;
-  opacity: 50%;
 }
 
 .section-dark {
