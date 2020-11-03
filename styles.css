@@ -259,7 +259,7 @@ ul li a {
 }
 
 ul li a .fa {
-  position: relative;
+  position: absolute;
   color: #262626;
   transition: .5s;
 }
